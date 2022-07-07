@@ -243,11 +243,6 @@ ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
 
 
 
-client.on('ready', () => {
-     client.user.setActivity("1help | By ITz_FshFash",{type: 'WATCHING'});
-
-});
-
 
 
 client.login(process.env.BOT_TOKEN);  //اياكككك تلعب هنا لا تحط توكنك هنا 
